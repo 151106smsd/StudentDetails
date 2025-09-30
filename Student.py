@@ -1,0 +1,8 @@
+#Program to demonstrate Student details
+name=input("Enter Student Name: ")
+USN=input("Enter USN: ")
+course=input("Enter Course Name: ")
+print("Student Details are as follows:")
+print("Name:",name)
+print("Usn Number:",USN)
+print("Course:",course)
